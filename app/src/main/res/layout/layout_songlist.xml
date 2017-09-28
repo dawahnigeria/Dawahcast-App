@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black40">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_play"
+            android:layout_margin="10dp"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+
+            <TextView
+                android:id="@+id/textView_songname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:textSize="18dp"
+                android:text="dfsadsaada"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:id="@+id/textView_catname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:text="dfsadsaada"
+                android:textColor="@color/white80"/>
+
+        </LinearLayout>
+
+        <es.claucookie.miniequalizerlibrary.EqualizerView
+            xmlns:custom="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/equalizer_view"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            custom:foregroundColor="@color/nav_checked"
+            android:layout_gravity="center"
+            android:layout_marginRight="7dp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginBottom="3dp"
+            custom:animDuration="3000"
+            android:visibility="invisible"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+
+            <TextView
+                android:id="@+id/textView_songduration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2:50"
+                android:textColor="@color/white"
+                android:layout_marginRight="10dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#50ffffff"/>
+
+</LinearLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@mipmap/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_cat"
+        android:icon="@mipmap/cat"
+        android:title="Lecturers" />
+    <item
+        android:id="@+id/nav_artist"
+        android:icon="@mipmap/artist"
+        android:title="Topics" />
+    <item
+        android:id="@+id/nav_fav"
+        android:icon="@mipmap/heart"
+        android:title="Favourites" />
+    <item
+        android:id="@+id/nav_ytvideo"
+        android:icon="@mipmap/heart"
+        android:title="@string/menu_video" />
+    <item
+        android:id="@+id/nav_live"
+        android:icon="@mipmap/about"
+        android:title="DN Highlight" />
+
+    <item
+        android:id="@+id/nav_rate"
+        android:icon="@mipmap/rate"
+        android:title="Rate App" />
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@mipmap/share_nav"
+        android:title="Share App" />
+
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@mipmap/more"
+        android:title="More App" />
+
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@mipmap/about"
+        android:title="About Us" />
+
+    <item
+        android:id="@+id/nav_privacy"
+        android:icon="@mipmap/privacy"
+        android:title="Please Donate" />
+
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@mipmap/privacy"
+        android:title="@string/logout" />
+
+    <item
+        android:id="@+id/nav_dummy"
+        android:title="" />
+
+</menu>

@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="DialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="MySeekBarTheme" parent="Widget.AppCompat.SeekBar" >
+        <item name="colorAccent">@color/nav_checked</item>
+    </style>
+
+    <!--<style name="NavigationDrawer" parent="AppTheme" >-->
+        <!--&lt;!&ndash;<item name="android:textStyle">bold</item>&ndash;&gt;-->
+        <!--<item name="android:textColorPrimary">@color/white</item>-->
+        <!--&lt;!&ndash;<item name="android:background">@color/black40</item>&ndash;&gt;-->
+    <!--</style>-->
+
+</resources>

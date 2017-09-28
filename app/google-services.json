@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "315209635284",
+    "firebase_url": "https://dn-dawahcast.firebaseio.com",
+    "project_id": "dn-dawahcast",
+    "storage_bucket": "dn-dawahcast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315209635284:android:57d3bf200462ae56",
+        "android_client_info": {
+          "package_name": "com.apps.dawahcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315209635284-7lhmdivibtaqv12gt1o7amfb1k5pkmgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.dawahcast",
+            "certificate_hash": "6b80189a52bc200a7a831f9a9e2308f3215ea2ec"
+          }
+        },
+        {
+          "client_id": "315209635284-8m2on0er127uenuhsdq99or6vajnbdbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTReI_V8NGvzHh2O65N_41P8SPQqd-d0"
+        },
+        {
+          "current_key": "AIzaSyBAiMGExh1GX1TIGi523fO-n2GwYoqBYGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315209635284-8m2on0er127uenuhsdq99or6vajnbdbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
