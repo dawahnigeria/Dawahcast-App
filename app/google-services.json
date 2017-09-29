@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "315209635284-7lhmdivibtaqv12gt1o7amfb1k5pkmgk.apps.googleusercontent.com",
+          "client_id": "315209635284-7tkcq7tlua829mqhrt3ouqsam32lj4cp.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.apps.dawahcast",
-            "certificate_hash": "6b80189a52bc200a7a831f9a9e2308f3215ea2ec"
+            "certificate_hash": "3dc5cc782d617f2b55ec6ca04674f506b86b0a51"
           }
         },
         {
