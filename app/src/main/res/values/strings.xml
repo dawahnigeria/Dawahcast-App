@@ -18,7 +18,8 @@
     <string name="no_item_found">No Items Found</string>
     <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Edawah+Technologies</string>
     <string name="download_desti">Dawahcast App</string>
-    <string name="admob_intertestial_id">ca-app-pub-2337517241859684/3903161890</string>
+    <string name="admob_intertestial_id">ca-app-pub-2337517241859684/9322368902</string>
+    <string name="admob_banner_id">ca-app-pub-2337517241859684/7771885029</string>
     <string name="internet_not_conn">Internet not connected</string>
     <string name="menu_video">Youtube Video</string>
     <string name="noofloadmore">10</string>
