@@ -26,7 +26,7 @@ Get you Android Enviroment ready  by having  Java, Android Studio and required C
 4. Noticed any bug or Intrested in Adding new features, Try fixing it and send us a PR
 
 
-5. We review and Merge if meet standard
+5. We will review and Merge,if it works pretty well
         
     Thanks Once Again 
     
