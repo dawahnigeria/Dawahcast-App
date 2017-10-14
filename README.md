@@ -20,7 +20,7 @@ Clone DN Dawahcast.
 
 #### Support
 Issues should be reported here on [Github Issues](https://github.com/dawahnigeria/Dawahcast-App/issues)
-Please be advised though that we can only provide limited support for your local installations.
+
 
 #### Become a contributor
 If you would like to contribute to the project. Please follow these steps to submit a contribution:
