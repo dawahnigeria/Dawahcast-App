@@ -23,6 +23,10 @@ Issues should be reported here on [Github Issues](https://github.com/dawahnigeri
 
 
 #### Become a contributor
+Contributions are highly welcomed and appreciated. Every little help counts, so do not hesitate!
+
+Contributions can be made in the form of feature requests, bug reports and feedback.
+
 If you would like to contribute to the project. Please follow these steps to submit a contribution:
 * Comment on the Github issue (or create one if one does not exist) and let us know that you're working on it.
 * Fork the project (if you have not already) or rebase your fork so that it is up to date with the current repository's '_**development**_' branch
