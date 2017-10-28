@@ -34,14 +34,17 @@ See issue tracker for [3.0 tickets](https://github.com/dawahnigeria/Dawahcast-Ap
 
 ## Project Roadmap
 
-## Ongoing work 
-* [ ] Youtube video caption not Displaying (see http://)
-* [ ] Categories images not showing
-
-* [ ]  Offline Access 
-* [ ]  Push notification for every new courses 
-* [ ]  Inbuilt live streaming with DN Quran service [Live Streaming](http://).
-
+# Ongoing work 
+* [ ] DN Dawahcast app
+- Highlight 
+- Latest Lectures
+- Cache/Local DB: don’t need internet to load first page of basic tabs
+- Complete issues on lecture images
+- Fix bug in category / video images not showing
+- Twitter login bug
+- Features from new update 
+- ----- Fix offline crash bug
+- ----- Download Tab
 
 
 
