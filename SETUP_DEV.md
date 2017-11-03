@@ -35,8 +35,10 @@ To run this application via NetBeans, you need to install the following pieces o
   * [Gradle Support for NetBeans](https://github.com/kelemen/netbeans-gradle-project), use the NetBeans IDE Update Center.
 
 ### Import Project
-*Start Android Studio
-*File >> New >> Import Project and select the Gradle build java project
+
+**Start Android Studio
+
+**File >> New >> Import Project and select the Gradle build java project
 
 
 
