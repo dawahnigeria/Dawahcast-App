@@ -17,7 +17,9 @@ Get you Android Enviroment ready  by having  Java, Android Studio and required C
 Clone DN Dawahcast.
 
         $ git clone https://github.com/dawahnigeria/Dawahcast-App.git
-
+        
+        
+Need help in setting up Dev enviroment refer to [Project Dev Enviroment](https://github.com/dawahnigeria/Dawahcast-App/edit/master/SETUP_DEV.md)
 #### Support
 Issues should be reported here on [Github Issues](https://github.com/dawahnigeria/Dawahcast-App/issues)
 
