@@ -34,6 +34,12 @@ To run this application via NetBeans, you need to install the following pieces o
   * [NBAndroid](http://www.nbandroid.org), use this update center: http://nbandroid.org/updates/updates.xml (if you have NetBeans 8.1 or higher, use http://nbandroid.org/release81/updates/updates.xml ).
   * [Gradle Support for NetBeans](https://github.com/kelemen/netbeans-gradle-project), use the NetBeans IDE Update Center.
 
+### Import Project
+*Start Android Studio
+*File >> New >> Import Project and select the Gradle build java project
+
+
+
 ### P.S
 
 To avoid Build error kindly update all packages under Android API 24 via SDK manager.
