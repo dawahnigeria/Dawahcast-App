@@ -38,7 +38,7 @@ See issue tracker for [3.0 tickets](https://github.com/dawahnigeria/Dawahcast-Ap
 
 # Ongoing work 
 * [ ] DN Dawahcast app
-- Highlight 
+- Highlight (Highlights are audio file excerpts from dawahcast lectures, with duration ranging from 3 minutes to 10 minutes and file size from 500KB to 3M. The idea is to make a "quick and steady" alternative providing dawah on-the-go) See more here [DN Highlight](http://dawahnigeria.com/highlight/)
 - Latest Lectures
 - Cache/Local DB: don’t need internet to load first page of basic tabs
 - Complete issues on lecture images
