@@ -19,6 +19,10 @@ allprojects {
     repositories {
         jcenter()
         maven { url 'https://dl.bintray.com/kandroid/maven' }
+
+        maven {
+            url "https://maven.google.com"
+        }
     }
 }
 
