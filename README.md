@@ -17,7 +17,9 @@ Get you Android Enviroment ready  by having  Java, Android Studio and required C
 Clone DN Dawahcast.
 
         $ git clone https://github.com/dawahnigeria/Dawahcast-App.git
-
+        
+        
+Need help in setting up Dev enviroment refer to [Project Dev Enviroment](https://github.com/dawahnigeria/Dawahcast-App/edit/master/SETUP_DEV.md)
 #### Support
 Issues should be reported here on [Github Issues](https://github.com/dawahnigeria/Dawahcast-App/issues)
 
@@ -34,14 +36,17 @@ See issue tracker for [3.0 tickets](https://github.com/dawahnigeria/Dawahcast-Ap
 
 ## Project Roadmap
 
-## Ongoing work 
-* [ ] Youtube video caption not Displaying (see http://)
-* [ ] Categories images not showing
-
-* [ ]  Offline Access 
-* [ ]  Push notification for every new courses 
-* [ ]  Inbuilt live streaming with DN Quran service [Live Streaming](http://).
-
+# Ongoing work 
+* [ ] DN Dawahcast app
+- Highlight (Highlights are audio file excerpts from dawahcast lectures, with duration ranging from 3 minutes to 10 minutes and file size from 500KB to 3M. The idea is to make a "quick and steady" alternative providing dawah on-the-go) See more here [DN Highlight](http://dawahnigeria.com/highlight/)
+- Latest Lectures (List of Last uploaded Lectures)
+- Cache/Local DB: don’t need internet to load first page of basic tabs
+- Complete issues on lecture images (Some Lecture don't have Lecture Caption Inages) 
+- Fix bug in category / video images not showing
+- Twitter login bug 
+- Features from new update (Download page to play Audio Locally)
+- ----- Fix offline crash bug
+- ----- Download Tab
 
 
 
